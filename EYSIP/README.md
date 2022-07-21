@@ -1,3 +1,0 @@
-# EYSIP
-
-Rahul raaghav A
