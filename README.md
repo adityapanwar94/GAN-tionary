@@ -2,7 +2,7 @@
 
 <br>
 
-## DVQA
+## Data Visualizations via Question Answering (DVQA)
 
 ---
 <br>
