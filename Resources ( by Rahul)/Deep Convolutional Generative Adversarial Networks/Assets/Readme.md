@@ -1,1 +1,0 @@
-Imaged and other assets
