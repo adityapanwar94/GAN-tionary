@@ -15,11 +15,11 @@
 
 **LSTMs** ~ https://adityapanwar.notion.site/Long-Short-Term-Memory-Networks-LSTMs-1bdf250766744ec995d8b917a09e2f62
 
-**Attentions** ~ <https://samya-ravenxi.notion.site/Attention-Models-6f1b3e2c50fe4ab38264db9b01f6c578>
+**Attentions** ~ https://adityapanwar.notion.site/Attention-Models-2ab02fd42a77415da1a590b5658612d1
 
-**Transformers** ~ <https://samya-ravenxi.notion.site/Transformers-b31498d91b7c4198a29aaae5059e674f>
+**Transformers** ~ https://www.notion.so/adityapanwar/Transformers-21736229e7a34ef2ab22dd1dd1064696
 
-**GANs** ~ <https://samya-ravenxi.notion.site/Generative-Adversarial-Networks-GANs-5a6b5dae6268418f988762f23c4996b3>
+**GANs** ~ https://www.notion.so/adityapanwar/Generative-Adversarial-Networks-GANs-e3269251e2a2415aad6af29bd479cfa0
 
 **Kaggle Notebook for GANs** ~ <https://www.kaggle.com/code/samyabose/gans-for-generating-weakly-reflexive-relations?kernelSessionId=97919755>
 
