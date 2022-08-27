@@ -9,7 +9,7 @@
 
 **Synthesis Reports:**
 
-**CNNs** ~ <https://samya-ravenxi.notion.site/Convolutional-Neural-Networks-CNNs-cb2ca9e7765b46f4a6437af0540f7abd>
+**CNNs** ~ (https://adityapanwar.notion.site/Convolutional-Neural-Networks-CNNs-efe2763d947840139181791481c33591)
 
 **RNNs**  ~ <https://samya-ravenxi.notion.site/Recurrent-Neural-Networks-RNNs-e904a4e282bf4141865204a47e01521f>
 
