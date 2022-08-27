@@ -9,11 +9,11 @@
 
 **Synthesis Reports:**
 
-**CNNs** ~ (https://adityapanwar.notion.site/Convolutional-Neural-Networks-CNNs-efe2763d947840139181791481c33591)
+**CNNs** ~ https://adityapanwar.notion.site/Convolutional-Neural-Networks-CNNs-efe2763d947840139181791481c33591
 
-**RNNs**  ~ <https://samya-ravenxi.notion.site/Recurrent-Neural-Networks-RNNs-e904a4e282bf4141865204a47e01521f>
+**RNNs**  ~ https://adityapanwar.notion.site/Recurrent-Neural-Networks-RNNs-c1dc36bbf163451a87bd27663e77df9d
 
-**LSTMs** ~ <https://samya-ravenxi.notion.site/Long-Short-Term-Memory-Networks-LSTMs-5f1ffa44545641dfbe4c7e54ca85c6b4>
+**LSTMs** ~ https://adityapanwar.notion.site/Long-Short-Term-Memory-Networks-LSTMs-1bdf250766744ec995d8b917a09e2f62
 
 **Attentions** ~ <https://samya-ravenxi.notion.site/Attention-Models-6f1b3e2c50fe4ab38264db9b01f6c578>
 
