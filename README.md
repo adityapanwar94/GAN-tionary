@@ -21,7 +21,7 @@
 
 **GANs** ~ https://www.notion.so/adityapanwar/Generative-Adversarial-Networks-GANs-e3269251e2a2415aad6af29bd479cfa0
 
-**Kaggle Notebook for GANs** ~ <https://www.kaggle.com/code/samyabose/gans-for-generating-weakly-reflexive-relations?kernelSessionId=97919755>
+**Kaggle Notebook for GANs** ~ https://www.kaggle.com/adityapan/gans-for-generating-weakly-reflexive-relations
 
 ---
 <br>
