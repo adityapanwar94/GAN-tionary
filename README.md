@@ -1,4 +1,4 @@
-# GAN-tionary (EYSIP 2022)
+# GAN-tionary 
 
 <br>
 
